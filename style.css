@@ -1,18 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 h1{
-    color: rgba(2, 2, 105, 0.856);
+    color: rgba(7, 7, 88, 0.856);
     font-size: 100px;
 }
 h2{
-    color: #46484c;
+    color: #064d11;
 
 }
 p {
-    color: #8b8b8bcc;
+    color: #464444cc;
 }
 button{
-    color: #fff;
+    color: rgb(136, 4, 107);
     background-color: #025157s;    
 }
 body{
-    color: #fffbf7;
+    color: #e28629;
+    background-image: ;
 }
