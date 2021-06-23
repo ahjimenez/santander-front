@@ -139,3 +139,141 @@ body{
     right: 0;
     background-color: #d88635;
   }
+
+  .usescases {
+    background-color: #a1d683;
+    padding: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .success-stories .whouses {
+    flex: 2;
+    padding-right: 100px;
+  }
+
+  .usescases .whouses h2 {
+    font-family: "Alegreya", serif;
+    font-size: 51px;
+    color: #025157;
+  }
+
+  .usescases .whouses p {
+    color: #343434;
+    font-size: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .usescases .whouses button {
+    font-size: 16px;
+    padding: 12px 12px 6px 12px;
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 600;
+    margin-left: 0;
+  }
+
+  .usescases .whouses img {
+    width: 80%;
+    max-width: 80%;
+    margin-left : 0;
+  }
+
+  .usescases .everly{
+    flex: 1;
+  }
+
+  .usescases .everly{
+    margin-left: 10%;
+    float : right;
+    max-width: 550px;
+    width: 80%;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+
+  .usescases .everly .diveverly .img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 80%;
+    max-width: 80%;
+  }
+
+  .usescases .everly .diveverly .figure {
+    margin-top: 0;
+    margin-right: 10%;
+  }
+
+  .usescases .everly .diveverly {
+    position: relative;
+    }
+
+  .usescases .everly .divlogo {
+    position: absolute;
+    bottom: -20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: #f9da73;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .usescases .everly .divlogo img {
+    max-width: 75%;
+  }
+
+
+    .usescases .everly .divbody,
+    .usescases .everly .divfooter {
+      padding: 25px;
+    }
+
+    .usescases .everly .divbody h4 {
+      color: #025157;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-bottom: 12px;
+    }
+
+    .usescases .everly .divbody h3 {
+      font-size: 25px;
+      font-weight: 400;
+      line-height: 30px;
+      margin-bottom: 20px;
+    }
+
+    .usescases .everly .divbody .divresults {
+      display: flex;
+      align-items: center;
+      color: #828282;
+    }
+
+    .usescases .everly .divbody .divresults img {
+      width: 26px;
+      margin-right: 20px;
+    }
+
+    .usescases .everly .divbody .divresults p {
+      margin-top: 0;
+    }
+
+    .usescases .everly .divbody .divfooter {
+      margin-bottom: 20px;
+      background-color: unset;
+      border-top: unset;
+    }
+
+    .usescases .everly .divbody .divfooter button {
+      display: block;
+      margin-left: 0;
+      border-radius: 5px;
+      font-size: 13;
+      font-weight: 600;
+      padding: 12px 20px;
+      width: 100%;
+    }
