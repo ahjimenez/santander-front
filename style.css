@@ -277,3 +277,17 @@ body{
       padding: 12px 20px;
       width: 100%;
     }
+
+    .features {
+      display: grid;
+     /* grid-template-columns: 300px 300px;*/
+     grid-template-columns: repeat(2, 1fr);
+     grid-template-rows: repeat(3,330px);
+    }
+
+    .feature-art {
+      background-color: lightcyan;
+      margin: 10px;
+      width: 40%;
+      height: 50px;
+    }
