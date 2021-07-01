@@ -46,7 +46,7 @@ body{
   }
   
   .navbar {
-    width: 70%;
+    /* width: 70%; */
     margin-left: 25px;
     margin-left: 25px;
     font-family: sans-serif;
@@ -462,9 +462,9 @@ body{
 
  /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px) {
-  .navbar, .actions{
+  /* .navbar, .actions{
     display: none;
-  }
+  } */
 
   
   .h1 {
